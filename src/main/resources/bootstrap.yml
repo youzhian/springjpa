@@ -1,0 +1,4 @@
+## 只有是spring cloud starter才会读取bootstrap文件
+spring:
+  profiles:
+    active: dev
